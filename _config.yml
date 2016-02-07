@@ -1,28 +1,40 @@
-name: JakeStromberg
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.4266105836723
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: JakeStromberg
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0.5
+  rhythmicContrast: 0
   brandColors:
     - '#eeede8'
     - '#b2aa9f'
     - '#412518'
     - '#695346'
     - '#df5754'
-  brandStrength: 0.5
   lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.4266105836723
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.6829787
+analytics:
+  twitter: null
+  google: null
+  facebook: null
