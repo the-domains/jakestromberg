@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[JakeStromberg]]></title>
         <description><![CDATA[JakeStromberg]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jakestromberg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 00:01:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 00:08:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jakestromberg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sucabaruca Memphis 'Pop']]></title>
-            <description><![CDATA[<article><h1>Sucabaruca Memphis 'Pop'</h1><p>This Is: Sucabaruca Memphis 'Pop' Coffee Service</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d41d86476dd8e03deed2b25aee287826f952a313.jpg"></article>]]></description>
-            <link>undefineddd007ae9-392d-40a5-8a05-60db1f5fbb22/index.html</link>
+            <description><![CDATA[<article><h1>Sucabaruca Memphis 'Pop'</h1><p>This Is: Sucabaruca Memphis 'Pop' Coffee Service</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e44225041e7dc7c904adb3a203345ecef5e75c7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jakestromberg/dd007ae9-392d-40a5-8a05-60db1f5fbb22/index.html</link>
             <guid isPermaLink="false">dd007ae9-392d-40a5-8a05-60db1f5fbb22</guid>
-            <pubDate>Sun, 07 Feb 2016 00:01:32 GMT</pubDate>
+            <pubDate>Sun, 07 Feb 2016 00:08:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
