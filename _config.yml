@@ -18,23 +18,23 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 1
-  brandStrength: 0.5
-  rhythmicContrast: 0
+  saturation: 0.4382979
+  brandStrength: 0
+  lightness: 0.5
   brandColors:
     - '#eeede8'
     - '#b2aa9f'
     - '#412518'
     - '#695346'
     - '#df5754'
-  lightness: 0.5
+  rhythmicContrast: 0
 typography_spectrum: 0.4266105836723
-cta:
-  bucket: null
-  version: null
-  domain: null
 layout_spectrum: 0.6829787
 analytics:
   twitter: null
   google: null
   facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
